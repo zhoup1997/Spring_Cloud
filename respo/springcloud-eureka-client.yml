@@ -1,12 +1,9 @@
 server:
   port: 8884
 
-
 spring:
   application:
     name: springcloud-eureka-client
-
-
 eureka:
   client:
     service-url:
